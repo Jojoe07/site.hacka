@@ -2,7 +2,7 @@ import streamlit as st
 
 st. title("Criathon Itaú Empresas")
 
-st.title("Jornada do futuro")
+st.subheader("Jornada do futuro")
 
 
 ("App do futuro")
